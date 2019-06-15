@@ -1,16 +1,16 @@
 # UdacityML
 
-### Projects completed as part of Udacity Machine Learning Engineer NanoDegree
+## Projects completed as part of Udacity Machine Learning Engineer NanoDegree
 
-##### Regression Analysis  
+#### Regression Analysis  
 Boston Housing Prices  
-##### Classification Models  
+#### Classification Models  
 Finding Donors to Donate  
-##### Neural Networks  
+#### Neural Networks  
 Building a Dog Breed Classifier  
-##### Clustering  
+#### Clustering  
 Customer Segments - Who to advertise different things to on Netflix  
-##### Reinforcement Learning  
+#### Reinforcement Learning  
 Quadcopter - Teach a drone to fly itself  
-##### Capstone Project  
+#### Capstone Project  
 My own personal project - Lower Back Pain classification in Medical Practice - Includes R + Python code - Final Report does not include the a-priori analysis that I have included within my R-code
