@@ -7,7 +7,7 @@ Boston Housing Prices
 #### Classification Models  
 Finding Donors to Donate  
 #### Neural Networks  
-Building a Dog Breed Classifier  
+Building a Dog Breed Classifier that also detects humans  
 #### Clustering  
 Customer Segments - Who to advertise different things to on Netflix  
 #### Reinforcement Learning  
