@@ -14,7 +14,7 @@ Building a Dog Breed Image Classifier that also detects humans in a picture
 #### Clustering  
 Customer Segments - Who to advertise different shows to on Netflix, by grouping what they have watched into clusters of similarity across all users 
 #### Reinforcement Learning  
-Quadcopter - Teach a drone to learn to fly itself
+Quadcopter - Teach a drone to learn to fly itself, through  simulations in an environment that it learns from
   
 ## Final Project  
 #### Personal Project Choice
