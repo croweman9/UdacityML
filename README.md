@@ -5,7 +5,7 @@
 #### Regression Analysis  
 Boston Housing Prices: Predicting housing prices based on factors such as size of house, neighborhood poverty levels, Student-teacher ratio of nearby schools, etc.  
 #### Classification Models  
-Finding Donors to Donate  
+Finding Donors to Donate: Predicting people's income levels based off occupation, education level, age, etc., and estimating a best donation amount to request from each for a non-profit  
 #### Neural Networks  
 Building a Dog Breed Image Classifier that also detects humans in a picture  
 #### Clustering  
