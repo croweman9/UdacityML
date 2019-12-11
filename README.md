@@ -12,9 +12,9 @@ Building a Dog Breed Image Classifier that also detects humans in a picture
 
 ## Unsupervised Models  
 #### Clustering  
-Customer Segments - Who to advertise different things to on Netflix  
+Customer Segments - Who to advertise different shows to on Netflix, by grouping what they have watched into clusters of similarity across all users 
 #### Reinforcement Learning  
-Quadcopter - Teach a drone to fly itself  
+Quadcopter - Teach a drone to learn to fly itself
   
 ## Final Project  
 #### Personal Project Choice
