@@ -8,7 +8,7 @@ Boston Housing Prices: Predicting housing prices based on factors such as size o
 #### Classification Models  
 Finding Donors to Donate: Predicting people's income levels based on factors such as occupation, education level, age, etc., and estimating a best donation amount to request from each for a non-profit  
 #### Neural Networks  
-Building a Dog Breed Image Classifier that also detects humans in a picture  
+Building a Dog Breed Image Classifier through Convolutional Neural Networks that also detects humans in pictures.  
 
 ## Unsupervised Models  
 #### Clustering  
