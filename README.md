@@ -1,6 +1,6 @@
 ## Projects completed as part of Udacity Machine Learning Engineer NanoDegree
 Each project has a python notebook and a report in html.  
-Copy-paste each raw report.html into https://codebeautify.org/htmlviewer or other similar html viewer to view to report
+Copy-paste each raw report.html into https://codebeautify.org/htmlviewer or a other similar html viewer to view the corresponding report
 
 ## Supervised Models  
 #### Regression Analysis  
